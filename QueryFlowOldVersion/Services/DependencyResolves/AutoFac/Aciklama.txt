@@ -1,0 +1,1 @@
+﻿Autofac yada başka bir teknoloji için IOC Kontainer bu şekilde tanımlanabilir

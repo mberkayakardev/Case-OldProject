@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="QueryFlow - Sınav & Anket Uygulaması.">
+    <meta name="author" content="Berkay Akar">
+    <meta name="author" content="Furkan Altıntaş">
+    <meta name="keywords" content="Anket">
+    <meta name="keywords" content="Quiz">
+    <meta name="keywords" content="Sınav">
+    <title>QueryFlow @@(@DateTime.Now.Year)</title>
+    <link rel="stylesheet" href="/npm/bootstrap/dist/css/bootstrap.min.css">
+    @await RenderSectionAsync("styles", false)
+</head>
+<body>
+
+
+    <!-- Buralara loader header footer vs eklenecektir ama şimdi değil -->
+
+    <main>
+        @RenderBody();
+    </main>
+
+    <link rel="stylesheet" href="/npm/bootstrap/dist/js/bootstrap.min.js">
+    @await RenderSectionAsync("scripts", false)
+</body>
+</html>

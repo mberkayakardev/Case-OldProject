@@ -1,0 +1,1 @@
+﻿Klasör Yapısının korunabilmesi maksatlı olarak bu şekilde bir açıklama dosyası eklendi.
