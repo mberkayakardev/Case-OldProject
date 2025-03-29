@@ -1,0 +1,48 @@
+﻿@model List<ListProductDto>
+
+@await Component.InvokeAsync("CategoryFiltre")
+
+
+
+@section styles {
+    <style>
+
+        /*       .product-image {
+                    aspect-ratio: 3 / 2;
+                    width: 100%;
+                    object-fit: cover;
+                } */
+    </style>
+}
+
+<div class="col-lg-9">
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-2 row-cols-xl-3 justify-content-center">
+
+        @if (Model != null && Model.Count > 0)
+        {
+            @foreach (var item in Model)
+            {
+                <div class="col mb-5">
+                    <div class="card h-100">
+                        <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <h5 class="fw-bolder">@item.ProductName</h5>
+                                $@item.ProductPrice
+                            </div>
+                        </div>
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <form method="post" asp-action="Add" asp-controller="Basket">
+                                <input type="hidden" name="Id" value="@item.Id" />
+                                <div class="text-center"><button type="submit" class="btn btn-outline-dark mt-auto">Sepete Ekle </button></div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+
+        <!-- Buraya diğer ürün kartlarını ekleyebilirsin -->
+    </div>
+</div>

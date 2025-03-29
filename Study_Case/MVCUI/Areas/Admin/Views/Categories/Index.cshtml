@@ -1,0 +1,47 @@
+﻿@model List<ListCategoriesDto>
+
+<h1> Kategoriler Sayfası </h1>
+<a class="btn btn-danger btn-block m-2" asp-area="Admin" asp-controller="Categories" asp-action="Create"> Yeni ürün kaydı için tıklayınız  </a>
+
+<table id="myTable" class="display text-center">
+    <thead>
+        <tr>
+            <th class="text-center">Id</th>
+            <th class="text-center">Kategori Adı</th>
+            <th class="text-center">Kategori Açıklaması </th>
+            <th class="text-center">Aktif / Pasif </th>
+            <th class="text-center">Aksiyon </th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null )
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.CategoryName</td>
+                    <td>@item.CategoryDescription</td>
+                    <td><input type="checkbox" disabled @(item.IsActive ? "checked" : "") /></td>
+                    <td> <a asp-controller="Categories" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning"> Güncelle </a> </td>
+
+                </tr>
+            }
+
+        }
+
+    </tbody>
+</table>
+
+
+
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+}

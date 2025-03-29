@@ -1,0 +1,51 @@
+﻿@using MVCUI.Areas.Layout.Models
+@model SigninModel
+
+@{
+    Layout = "_SignInLayout";
+}
+
+@section styles {
+
+    <style>
+        body, html {
+            height: 100%;
+        }
+
+         .login-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .login-card {
+            width: 100%;
+            max-width: 400px;
+            padding: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }  
+
+    </style>
+
+}
+
+<div class="container login-container">
+    <div class="card login-card">
+        <h4 class="mb-4 text-center">Giriş Yap</h4>
+        <form method="post" asp-action="Singin" asp-controller="Account">
+            <div class="mb-3">
+                <label for="username" class="form-label">Kullanıcı Adı</label>
+                <input asp-for="@Model.email" type="text" class="form-control"  placeholder="Kullanıcı adınızı girin" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Şifre</label>
+                <input asp-for="@Model.password" type="password" class="form-control" placeholder="Şifrenizi girin" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Giriş Yap</button>
+        </form>
+
+        <div asp-validation-summary="All" />
+
+    </div>
+</div>

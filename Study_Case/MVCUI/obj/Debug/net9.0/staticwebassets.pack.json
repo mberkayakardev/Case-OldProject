@@ -1,0 +1,1197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mberk\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\mberk\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.browserslistrc",
+      "PackagePath": "staticwebassets\\Tema\\.browserslistrc"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.bundlewatch.config.json",
+      "PackagePath": "staticwebassets\\Tema\\.bundlewatch.config.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.editorconfig",
+      "PackagePath": "staticwebassets\\Tema\\.editorconfig"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.eslintignore",
+      "PackagePath": "staticwebassets\\Tema\\.eslintignore"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Tema\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.gitignore",
+      "PackagePath": "staticwebassets\\Tema\\.gitignore"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.gitpod.yml",
+      "PackagePath": "staticwebassets\\Tema\\.gitpod.yml"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.lgtm.yml",
+      "PackagePath": "staticwebassets\\Tema\\.lgtm.yml"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.npmignore",
+      "PackagePath": "staticwebassets\\Tema\\.npmignore"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.stylelintignore",
+      "PackagePath": "staticwebassets\\Tema\\.stylelintignore"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\.stylelintrc.json",
+      "PackagePath": "staticwebassets\\Tema\\.stylelintrc.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets\\Tema\\CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\LICENSE",
+      "PackagePath": "staticwebassets\\Tema"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\README.md",
+      "PackagePath": "staticwebassets\\Tema\\README.md"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\composer.json",
+      "PackagePath": "staticwebassets\\Tema\\composer.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\AdminLTEFullLogo.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\AdminLTEFullLogo.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\icons.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\assets\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.rtl.css",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.rtl.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.rtl.css.map",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.rtl.min.css",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\css\\adminlte.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\adminlte.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\Tema\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\Tema\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Tema\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\Tema\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\UI\\general.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\UI\\general.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\UI\\timeline.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\UI\\timeline.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\browser-support.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\browser-support.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\color-mode.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\color-mode.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\components\\main-header.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\components\\main-header.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\components\\main-sidebar.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\components\\main-sidebar.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\faq.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\faq.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\how-to-contribute.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\how-to-contribute.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\introduction.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\introduction.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\javascript\\treeview.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\javascript\\treeview.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\layout.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\layout.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\docs\\license.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\docs\\license.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\examples\\lockscreen.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\examples\\lockscreen.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\examples\\login-v2.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\examples\\login-v2.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\examples\\login.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\examples\\login.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\examples\\register-v2.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\examples\\register-v2.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\examples\\register.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\examples\\register.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\forms\\general.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\forms\\general.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\index.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\index.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\index2.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\index2.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\index3.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\index3.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\layout\\collapsed-sidebar.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\layout\\collapsed-sidebar.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\layout\\fixed-complete.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\layout\\fixed-complete.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\layout\\fixed-sidebar.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\layout\\fixed-sidebar.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\layout\\layout-rtl.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\layout\\layout-rtl.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\layout\\logo-switch.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\layout\\logo-switch.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\layout\\sidebar-mini.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\layout\\sidebar-mini.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\layout\\unfixed-sidebar.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\layout\\unfixed-sidebar.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\tables\\simple.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\tables\\simple.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\widgets\\cards.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\widgets\\cards.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\widgets\\info-box.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\widgets\\info-box.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\dist\\pages\\widgets\\small-box.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\pages\\widgets\\small-box.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\index.html",
+      "PackagePath": "staticwebassets\\Tema\\index.html"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\package-lock.json",
+      "PackagePath": "staticwebassets\\Tema\\package-lock.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\package.json",
+      "PackagePath": "staticwebassets\\Tema\\package.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\AdminLTEFullLogo.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\AdminLTEFullLogo.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\icons.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\assets\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\config\\assets.config.mjs",
+      "PackagePath": "staticwebassets\\Tema\\src\\config\\assets.config.mjs"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\config\\astro.config.mjs",
+      "PackagePath": "staticwebassets\\Tema\\src\\config\\astro.config.mjs"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\config\\postcss.config.mjs",
+      "PackagePath": "staticwebassets\\Tema\\src\\config\\postcss.config.mjs"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\config\\rollup.config.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\config\\rollup.config.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\.prettierrc.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\.prettierrc.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\.tsconfig.json",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\.tsconfig.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\_head.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\_head.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\_scripts.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\_scripts.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\dashboard\\_footer.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\dashboard\\_footer.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\dashboard\\_sidenav.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\dashboard\\_sidenav.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\dashboard\\_topbar.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\dashboard\\_topbar.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\browser-support.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\browser-support.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\color-mode.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\color-mode.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\components\\main-header.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\components\\main-header.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\components\\main-sidebar.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\components\\main-sidebar.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\faq.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\faq.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\how-to-contribute.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\how-to-contribute.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\introduction.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\introduction.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\docs\\license.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\docs\\license.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\components\\javascript\\treeview.mdx",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\components\\javascript\\treeview.mdx"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\env.d.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\env.d.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\UI\\general.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\UI\\general.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\UI\\timeline.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\UI\\timeline.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\browser-support.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\browser-support.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\color-mode.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\color-mode.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\components\\main-header.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\components\\main-header.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\components\\main-sidebar.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\components\\main-sidebar.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\faq.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\faq.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\how-to-contribute.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\how-to-contribute.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\introduction.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\introduction.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\javascript\\treeview.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\javascript\\treeview.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\layout.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\layout.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\docs\\license.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\docs\\license.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\examples\\lockscreen.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\examples\\lockscreen.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\examples\\login-v2.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\examples\\login-v2.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\examples\\login.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\examples\\login.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\examples\\register-v2.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\examples\\register-v2.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\examples\\register.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\examples\\register.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\forms\\general.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\forms\\general.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\index.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\index.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\index2.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\index2.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\index3.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\index3.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\layout\\collapsed-sidebar.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\layout\\collapsed-sidebar.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\layout\\fixed-complete.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\layout\\fixed-complete.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\layout\\fixed-sidebar.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\layout\\fixed-sidebar.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\layout\\layout-rtl.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\layout\\layout-rtl.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\layout\\logo-switch.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\layout\\logo-switch.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\layout\\sidebar-mini.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\layout\\sidebar-mini.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\layout\\unfixed-sidebar.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\layout\\unfixed-sidebar.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\tables\\simple.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\tables\\simple.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\widgets\\cards.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\widgets\\cards.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\widgets\\info-box.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\widgets\\info-box.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\html\\pages\\widgets\\small-box.astro",
+      "PackagePath": "staticwebassets\\Tema\\src\\html\\pages\\widgets\\small-box.astro"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_app-content.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_app-content.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_app-footer.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_app-footer.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_app-header.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_app-header.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_app-main.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_app-main.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_app-sidebar.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_app-sidebar.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_app-wrapper.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_app-wrapper.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_bootstrap-variables.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_bootstrap-variables.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_callouts.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_callouts.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_compact-mode.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_compact-mode.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_direct-chat.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_direct-chat.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_docs.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_docs.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_info-box.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_info-box.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_miscellaneous.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_miscellaneous.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_progress-bars.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_small-box.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_small-box.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_table.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_table.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_timeline.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\adminlte.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\adminlte.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\mixins\\_animations.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\mixins\\_animations.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\mixins\\_scrollbar.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\mixins\\_scrollbar.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\pages\\_lockscreen.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\pages\\_lockscreen.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\pages\\_login_and_register.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\pages\\_login_and_register.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\parts\\_components.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\parts\\_components.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\parts\\_core.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\parts\\_core.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\parts\\_extra-components.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\parts\\_extra-components.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\parts\\_miscellaneous.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\parts\\_miscellaneous.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\scss\\parts\\_pages.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\parts\\_pages.scss"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\adminlte.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\adminlte.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\card-widget.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\card-widget.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\direct-chat.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\direct-chat.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\fullscreen.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\fullscreen.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\layout.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\layout.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\push-menu.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\push-menu.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\treeview.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\treeview.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\ts\\util\\index.ts",
+      "PackagePath": "staticwebassets\\Tema\\src\\ts\\util\\index.ts"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\src\\utils\\index.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\utils\\index.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\Tema\\tsconfig.json",
+      "PackagePath": "staticwebassets\\Tema\\tsconfig.json"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Github\\Study_Case\\MVCUI\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MVCUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MVCUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MVCUI.props",
+      "PackagePath": "build\\MVCUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCUI.props",
+      "PackagePath": "buildMultiTargeting\\MVCUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MVCUI.props",
+      "PackagePath": "buildTransitive\\MVCUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

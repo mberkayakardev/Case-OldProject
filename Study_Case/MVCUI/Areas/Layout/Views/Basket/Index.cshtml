@@ -1,0 +1,108 @@
+﻿@model List<CartItem>
+
+@section styles {
+    <style>
+        /* Chrome, Safari, Edge, Opera için spinner (up/down) gizle */
+        input[type=number]::-webkit-inner-spin-button,
+        input[type=number]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        /* Firefox için spinner gizle */
+        input[type=number] {
+            -moz-appearance: textfield;
+        }
+    </style>
+}
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Ürün Id</th>
+            <th scope="col">Ürün Resmi</th>
+            <th scope="col">Ürün Adı</th>
+            <th scope="col">Miktar</th>
+            <th scope="col">Tane Miktar</th>
+            <th scope="col">Total </th>
+            <th scope="col">Aksiyon</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count != null)
+        {
+            <form id="updateForm" method="post" asp-action="Update" asp-controller="Basket">
+
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                <tr>
+                    <th scope="row">@Model[i].Id</th>
+                    <td>
+                        <img width="100px" height="100px" class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                    </td>
+                    <td><b>@Model[i].ProductName</b></td>
+                    <td>
+                        <div class="input-group" style="width: 140px;">
+                            <button class="btn btn-outline-secondary btn-decrement" type="button">-</button>
+                            <input type="number" class="form-control text-center quantity-input"
+                                   name="CartItems[@i].Quantity"
+                                   value="@Model[i].Quantity" min="0" />
+                            <button class="btn btn-outline-secondary btn-increment" type="button">+</button>
+                        </div>
+                    </td>
+                    <td>@Model[i].ProductPrice</td>
+                    <td>@Model[i].TotalLinePrice</td>
+                    <td>
+                        <input type="hidden" name="CartItems[@i].ProductId" value="@Model[i].Id" />
+                        <button type="submit" formaction="/Basket/Remove?productId=@Model[i].Id" class="btn btn-danger">Sepetten Çıkart</button>
+                    </td>
+                </tr>
+
+                }
+
+            </form>
+
+
+        }
+        else
+        {
+            <h1> Sepette ürün bulunmamaktadır </h1>
+        }
+
+
+    </tbody>
+</table>
+
+<div class="text-center mt-3">
+    <button id="btnUpdateBasket" class="btn btn-primary w-100" style="max-width: 100%;">Sepeti Güncelle</button>
+</div>
+
+<div class="text-center mt-3">
+    <button class="btn btn-success w-100" style="max-width: 100%;">Sipariş Et </button>
+</div>
+
+@section scripts {
+    <script>
+        document.querySelectorAll('.btn-increment').forEach(button => {
+            button.addEventListener('click', function () {
+                const input = this.previousElementSibling;
+                input.value = parseInt(input.value) + 1;
+            });
+        });
+
+        document.querySelectorAll('.btn-decrement').forEach(button => {
+            button.addEventListener('click', function () {
+                const input = this.nextElementSibling;
+                const currentValue = parseInt(input.value);
+                if (currentValue > 0) {
+                    input.value = currentValue - 1;
+                }
+            });
+        });
+
+
+                document.getElementById("btnUpdateBasket").addEventListener("click", function () {
+            document.getElementById("updateForm").submit();
+        });
+    </script>
+}

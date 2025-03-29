@@ -1,0 +1,63 @@
+﻿
+
+@model List<ListProductDto>
+
+<h1> Ürünler Sayfası </h1>
+<a class="btn btn-danger btn-block mb-2 mt-2" asp-area="Admin" asp-controller="Products" asp-action="Create"> Yeni ürün kaydı için tıklayınız  </a>
+<br />
+<br />
+
+<table id="myTable" class="display text-center">
+    <thead>
+        <tr>
+            <th class="text-center">Id</th>
+            <th class="text-center">Ürün Adı</th>
+            <th class="text-center">Ürün Açıklaması</th>
+            <th class="text-center">Ürün Fiyatı</th>
+            <th class="text-center">Stok Adeti</th>
+            <th class="text-center">Kategori Adı</th>
+            <th class="text-center">Aktif / Pasif </th>
+            <th class="text-center">Aksiyon </th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.ProductName</td>
+                    <td>
+                        @(
+                            item.ProductDescription?.Length > 50
+                            ? item.ProductDescription.Substring(0, 50) + "..."
+                            : item.ProductDescription
+                            )
+                    </td>
+                    <td>@item.ProductPrice</td>
+                    <td>@item.Stock</td>
+                    <td>@item.CategoryName</td>
+                    <td><input type="checkbox" disabled @(item.IsActive ? "checked" : "") /></td>
+                    <td> <a asp-controller="Products" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning"> Güncelle </a> </td>
+
+                </tr>
+            }
+
+        }
+
+    </tbody>
+</table>
+
+
+
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+}

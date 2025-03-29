@@ -1,0 +1,71 @@
+﻿
+
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="QueryFlow - Sınav & Anket Uygulaması.">
+    <meta name="author" content="Berkay Akar">
+    <meta name="author" content="Furkan Altıntaş">
+    <meta name="keywords" content="Anket">
+    <meta name="keywords" content="Quiz">
+    <meta name="keywords" content="Sınav">
+    <title>ECommerce @@(@DateTime.Now.Year)</title>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/js/bootstrap.min.js">
+    @await RenderSectionAsync("styles", false)
+</head>
+<body>
+
+    <!-- Burası Viewcomponent olarak yada view olarak düzenlenecektir. -->
+    <partial name="PartialViews/_NavbarPartialView" />
+
+
+    <partial name="PartialViews/_Header" />
+
+
+
+
+    <!-- Buralara loader header footer vs eklenecektir ama şimdi değil -->
+
+    <section class="py-5">
+        <div class="container px-4 px-lg-5 mt-5">
+            <div class="row">
+                <!-- Sol Kategori Filtre Menüsü -->
+
+               
+
+
+                @RenderBody()
+
+
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <footer class="py-5 bg-dark">
+        <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    @await Component.InvokeAsync("NToastNotify")
+    
+    @await RenderSectionAsync("scripts", false)
+
+    
+</body>
+</html>
