@@ -1,0 +1,29 @@
+﻿@* @model List<MenuItem>
+
+<ul class="nav sidebar-menu flex-column" data-lte-toggle="treeview" role="menu" data-accordion="false">
+    @foreach (var item in Model)
+    {
+        <li class="nav-item">
+            <a href="#" class="nav-link">
+                <i class="nav-icon bi bi-circle-fill"></i>
+                <p>
+                    @item.Title
+                    <i class="nav-arrow bi bi-chevron-right"></i>
+                </p>
+            </a>
+
+            @if (item.SubItems != null && item.SubItems.Any())
+            {
+                <ul class="nav nav-treeview">
+                    @Html.Partial("_MenuPartial", item.SubItems)
+                </ul>
+            }
+
+        </li>
+
+    }
+</ul>
+
+
+
+ *@
